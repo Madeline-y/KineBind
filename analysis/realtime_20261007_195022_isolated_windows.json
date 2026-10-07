@@ -1,0 +1,42 @@
+[
+  {
+    "start": 2.02,
+    "end": 3.84,
+    "duration": 1.8050000000000002,
+    "raw_distance": 0.10784916763974246,
+    "endpoint_gap": 0.1301333333333337,
+    "accepted": false,
+    "match_score": 1000000.0,
+    "label": "结束位置拒绝"
+  },
+  {
+    "start": 4.15,
+    "end": 5.98,
+    "duration": 1.806,
+    "raw_distance": 0.1016406025663282,
+    "endpoint_gap": 0.04936666666666688,
+    "accepted": true,
+    "match_score": 0.12015769069397693,
+    "label": "单独通过，流式漏检"
+  },
+  {
+    "start": 34.05,
+    "end": 35.5,
+    "duration": 1.4299999999999997,
+    "raw_distance": 0.0989158349903513,
+    "endpoint_gap": 0.01419999999999863,
+    "accepted": false,
+    "match_score": 1000000.0,
+    "label": "窗口时长拒绝"
+  },
+  {
+    "start": 44.2,
+    "end": 46.1,
+    "duration": 1.8639999999999972,
+    "raw_distance": 0.09247009060657277,
+    "endpoint_gap": 0.10773333333333372,
+    "accepted": false,
+    "match_score": 1000000.0,
+    "label": "结束位置拒绝"
+  }
+]

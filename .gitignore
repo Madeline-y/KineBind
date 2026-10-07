@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+recordings/
+build/
+gestures/
+.mypy_cache/
+.scratch/
+.env
+.env.*
+!.env.example

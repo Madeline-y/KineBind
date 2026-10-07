@@ -1,0 +1,119 @@
+{
+  "source": "D:\\15366\\KineBind\\recordings\\left_swipe_01.csv",
+  "method": "Exploratory gz turning-point pairing: Gaussian sigma=2 samples; prominence>=50 deg/s; signed height>=40 deg/s; same-sign peak distance>=25 samples. Pair each negative extremum with the first qualifying positive extremum before the next negative extremum.",
+  "candidate_count": 15,
+  "limitations": [
+    "Early handling or posture changes may be counted.",
+    "Slow low-amplitude motions may be missed.",
+    "Thresholds are exploratory and are not a validated gesture detector.",
+    "The 13.303-15.407 s region contains sensor saturation.",
+    "Turning points are not full gesture onset/offset boundaries; no training labels have been created."
+  ],
+  "candidates": [
+    {
+      "id": 1,
+      "negative_turning_point_s": 2.978,
+      "following_positive_turning_point_s": 3.336,
+      "status": "candidate_only",
+      "note": "Turning-point pair, not full gesture boundaries; physical left/right not inferred from axis sign."
+    },
+    {
+      "id": 2,
+      "negative_turning_point_s": 3.852,
+      "following_positive_turning_point_s": 4.229,
+      "status": "candidate_only",
+      "note": "Turning-point pair, not full gesture boundaries; physical left/right not inferred from axis sign."
+    },
+    {
+      "id": 3,
+      "negative_turning_point_s": 5.242,
+      "following_positive_turning_point_s": 5.619,
+      "status": "candidate_only",
+      "note": "Turning-point pair, not full gesture boundaries; physical left/right not inferred from axis sign."
+    },
+    {
+      "id": 4,
+      "negative_turning_point_s": 6.851,
+      "following_positive_turning_point_s": 7.862,
+      "status": "candidate_only",
+      "note": "Turning-point pair, not full gesture boundaries; physical left/right not inferred from axis sign."
+    },
+    {
+      "id": 5,
+      "negative_turning_point_s": 9.073,
+      "following_positive_turning_point_s": 10.185,
+      "status": "candidate_only",
+      "note": "Turning-point pair, not full gesture boundaries; physical left/right not inferred from axis sign."
+    },
+    {
+      "id": 6,
+      "negative_turning_point_s": 11.119,
+      "following_positive_turning_point_s": 11.296,
+      "status": "candidate_only",
+      "note": "Turning-point pair, not full gesture boundaries; physical left/right not inferred from axis sign."
+    },
+    {
+      "id": 7,
+      "negative_turning_point_s": 12.349,
+      "following_positive_turning_point_s": 12.568,
+      "status": "candidate_only",
+      "note": "Turning-point pair, not full gesture boundaries; physical left/right not inferred from axis sign."
+    },
+    {
+      "id": 8,
+      "negative_turning_point_s": 13.322,
+      "following_positive_turning_point_s": 13.56,
+      "status": "candidate_only",
+      "note": "Turning-point pair, not full gesture boundaries; physical left/right not inferred from axis sign."
+    },
+    {
+      "id": 9,
+      "negative_turning_point_s": 14.096,
+      "following_positive_turning_point_s": 14.195,
+      "status": "candidate_only",
+      "note": "Turning-point pair, not full gesture boundaries; physical left/right not inferred from axis sign."
+    },
+    {
+      "id": 10,
+      "negative_turning_point_s": 14.732,
+      "following_positive_turning_point_s": 14.831,
+      "status": "candidate_only",
+      "note": "Turning-point pair, not full gesture boundaries; physical left/right not inferred from axis sign."
+    },
+    {
+      "id": 11,
+      "negative_turning_point_s": 15.386,
+      "following_positive_turning_point_s": 15.506,
+      "status": "candidate_only",
+      "note": "Turning-point pair, not full gesture boundaries; physical left/right not inferred from axis sign."
+    },
+    {
+      "id": 12,
+      "negative_turning_point_s": 16.676,
+      "following_positive_turning_point_s": 18.224,
+      "status": "candidate_only",
+      "note": "Turning-point pair, not full gesture boundaries; physical left/right not inferred from axis sign."
+    },
+    {
+      "id": 13,
+      "negative_turning_point_s": 19.357,
+      "following_positive_turning_point_s": 20.548,
+      "status": "candidate_only",
+      "note": "Turning-point pair, not full gesture boundaries; physical left/right not inferred from axis sign."
+    },
+    {
+      "id": 14,
+      "negative_turning_point_s": 21.62,
+      "following_positive_turning_point_s": 22.813,
+      "status": "candidate_only",
+      "note": "Turning-point pair, not full gesture boundaries; physical left/right not inferred from axis sign."
+    },
+    {
+      "id": 15,
+      "negative_turning_point_s": 24.122,
+      "following_positive_turning_point_s": 25.432,
+      "status": "candidate_only",
+      "note": "Turning-point pair, not full gesture boundaries; physical left/right not inferred from axis sign."
+    }
+  ]
+}

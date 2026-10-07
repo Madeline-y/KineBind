@@ -1,0 +1,10 @@
+{
+  "source": "D:\\15366\\KineBind\\recordings\\left_swipe_02.csv",
+  "gesture_id": "left_swipe",
+  "gesture_name": "左挥",
+  "definition": "向左挥动，然后向右回收到起始位置；一次完整往返算一次手势，回收阶段属于手势。",
+  "confirmed_repetition_count": 5,
+  "confirmation_source": "用户确认本轮挥动次数为 5 次，并明确组合动作命名为左挥。",
+  "individual_boundaries_status": "尚未标注完整动作起止时间",
+  "segments": []
+}

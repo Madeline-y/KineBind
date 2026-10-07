@@ -1,0 +1,22 @@
+{
+  "source": "D:\\15366\\KineBind\\recordings\\left_swipe_01.csv",
+  "sample_count": 1436,
+  "duration_s": 28.489,
+  "frequency_from_device_timestamps_hz": 50.3703183684931,
+  "interval_ms_min": 18.000000000000682,
+  "interval_ms_max": 21.000000000000796,
+  "sequence_gaps": 0,
+  "duplicate_sequences": 0,
+  "nonfinite_values": 0,
+  "accel_near_edge_rows": 4,
+  "accel_near_edge_fraction": 0.002785515320334262,
+  "gyro_near_edge_rows": 14,
+  "gyro_near_edge_fraction": 0.009749303621169917,
+  "near_edge_first_elapsed_s": 13.303,
+  "near_edge_last_elapsed_s": 15.407,
+  "criteria": {
+    "accel_any_axis_abs_g": 3.99,
+    "gyro_any_axis_abs_dps": 573
+  },
+  "label_status": "User defines left_swipe as a complete leftward swing followed by rightward return. Individual full-cycle boundaries remain unlabeled; repetition count has not been confirmed by the user."
+}

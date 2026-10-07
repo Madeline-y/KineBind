@@ -1,0 +1,20 @@
+{
+  "source": "D:\\15366\\KineBind\\recordings\\imu_20261006_191521_212687.csv",
+  "sample_count": 2895,
+  "duration_s": 57.434,
+  "frequency_from_device_timestamps_hz": 50.38827175540621,
+  "interval_ms_min": 18.000000000000682,
+  "interval_ms_max": 21.000000000000796,
+  "sequence_gaps": 0,
+  "duplicate_sequences": 0,
+  "nonfinite_values": 0,
+  "accel_near_edge_rows": 174,
+  "accel_near_edge_fraction": 0.06010362694300518,
+  "gyro_near_edge_rows": 415,
+  "gyro_near_edge_fraction": 0.14335060449050085,
+  "criteria": {
+    "accel_any_axis_abs_g": 3.99,
+    "gyro_any_axis_abs_dps": 573.0
+  },
+  "inference": "Repeated plateaus at raw output edges strongly suggest sensor saturation; this is not a gesture recognition assessment."
+}

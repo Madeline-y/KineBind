@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "profile": "gestures/358ebd85-092d-4204-8f37-3d81e84b44b2.json",
+  "independent": false,
+  "target": null,
+  "non_target": {
+    "static": null,
+    "shake": null,
+    "pick_place": null
+  }
+}
