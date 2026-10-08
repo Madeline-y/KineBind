@@ -1,5 +1,7 @@
 # KineBind：个人手势学习与鼠标控制
 
+查看 [更新记录](UPDATE.md)。
+
 目标：XIAO nRF52840 Sense → USB → Python → 实时六轴曲线与 CSV。
 
 当前手势“左挥”（`left_swipe`）定义为完整的“向左挥动 → 向右回收”组合，
